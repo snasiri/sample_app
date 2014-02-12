@@ -26,3 +26,5 @@ module SampleApp
     # config.i18n.default_locale = :de
   end
 end
+
+config.secret_key_base = 'blipblapblup'
