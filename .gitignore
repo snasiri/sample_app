@@ -17,6 +17,8 @@ doc/
 .project
 .DS_Store
 .idea
-.env
+.secret
 # Ignore application configuration
 /config/application.yml
+
+
